@@ -9,5 +9,5 @@ export {
     loader,
     copy,
     logo,
-    tick
+    tick,
 }
